@@ -1,4 +1,4 @@
-# Customer-Slot-Booking-Algoirthm
+# Appointment-Scheduling-Algoirthm
 The algorithm is created from the backend perspective.
 
 Case Scenario :
